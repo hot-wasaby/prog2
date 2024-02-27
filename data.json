@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Faculty of Engineering",
+        "abbreviation": "ENG",
+        "students": [
+            {
+                "firstName": "John",
+                "lastName": "Doe",
+                "email": "john.doe@example.com",
+                "enrollDate": "2023-09-01",
+                "dateOfBirth": "2001-05-15"
+            },
+            {
+                "firstName": "Jane",
+                "lastName": "Smith",
+                "email": "jane.smith@example.com",
+                "enrollDate": "2023-09-01",
+                "dateOfBirth": "2000-12-30"
+            }
+        ],
+        "studyField": "Mechanical Engineering"
+    },
+    {
+        "name": "Faculty of Computer Science",
+        "abbreviation": "CS",
+        "students": [
+            {
+                "firstName": "Alice",
+                "lastName": "Johnson",
+                "email": "alice.johnson@example.com",
+                "enrollDate": "2023-09-01",
+                "dateOfBirth": "2002-03-20"
+            }
+        ],
+        "studyField": "Software Engineering"
+    },
+    {
+        "name": "Faculty of Medicine",
+        "abbreviation": "MED",
+        "students": [
+            {
+                "firstName": "Michael",
+                "lastName": "Brown",
+                "email": "michael.brown@example.com",
+                "enrollDate": "2023-09-01",
+                "dateOfBirth": "1999-07-10"
+            },
+            {
+                "firstName": "Emily",
+                "lastName": "Davis",
+                "email": "emily.davis@example.com",
+                "enrollDate": "2023-09-01",
+                "dateOfBirth": "2000-10-05"
+            }
+        ],
+        "studyField": "Medicine"
+    }
+]
